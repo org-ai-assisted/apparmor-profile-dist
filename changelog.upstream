@@ -1,3 +1,68 @@
+commit 74d5943c697415af16ea2058b28ed2e4ede7a8c0
+Merge: d6ce125 ee8f99d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Sep 6 23:29:58 2026 -0400
+
+    Merge remote-tracking branch 'refs/remotes/ArrayBolt3/arraybolt3/trixie'
+
+commit d6ce1252dca6cbbe5c42a2182d3533f8cd5b9d2f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Sep 6 16:28:01 2026 +0000
+
+    bumped changelog version
+
+commit ee8f99dd786a6e7b09ad221542451ee1f96fb366
+Merge: 9484f26 3771fe3
+Author: Aaron Rainbolt <arraybolt3@gmail.com>
+Date:   Sun Sep 6 01:04:47 2026 -0400
+
+    Merge branch 'master' into arraybolt3/trixie
+
+commit f63739e21ab2496a3bed0ba9d0cf090cf3ad7781
+Merge: 3771fe3 9484f26
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Sep 5 01:30:00 2026 -0400
+
+    Merge remote-tracking branch 'refs/remotes/ArrayBolt3/arraybolt3/trixie'
+
+commit 9484f260bb9b00f6f4f134f30013606ebd7a1ebf
+Author: Aaron Rainbolt <arraybolt3@gmail.com>
+Date:   Fri Sep 4 18:30:20 2026 -0400
+
+    .
+
+commit 7b50e8979f44f0b519282352b13f275811978b69
+Merge: c4f7632 efb064d
+Author: Aaron Rainbolt <arraybolt3@gmail.com>
+Date:   Fri Sep 4 18:26:19 2026 -0400
+
+    Merge branch 'ai' into arraybolt3/trixie
+
+commit 3771fe369a75e802d67581e7665dec064e6844e3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 26 07:52:55 2026 +0000
+
+    bumped changelog version
+
+commit fde92fd392515a0f361c498b33f6028943a40446
+Merge: cef0891 efb064d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 25 01:29:14 2026 -0400
+
+    Merge remote-tracking branch 'refs/remotes/org-ai-assisted/ai'
+
+commit efb064dc6ac8f98e1166bf6323bd4caa19a8d239
+Author: assisted-by-ai (Bot Account) (Machine Account) <228987186+assisted-by-ai@users.noreply.github.com>
+Date:   Mon Aug 24 23:29:15 2026 -0400
+
+    ci: drop orphaned consumer-pre-push-static.yml (reusable decommissioned)
+
+commit cef08915c9e8993db43af191244e8b422a2d30ce
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 23 05:44:27 2026 +0000
+
+    bumped changelog version
+
 commit 92c10021cb390e78d79163a991c0718b5dcddf0d
 Merge: f9f83bc 6b15036
 Author: Patrick Schleizer <adrelanos@whonix.org>
